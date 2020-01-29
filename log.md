@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Python Code - Log
 
 ### Day 0: Enero 29, 2020. Preparando el repositorio
 ##### 
