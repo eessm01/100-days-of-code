@@ -7,3 +7,8 @@ The log of my #100DaysOfCode challenge. Started on [January 30, Thursday, 2020].
 ### R1D1 
 Started the python exercises. I resolved the Project Euler problem 5, but, I think it is the easiest way =(
 
+### R1D2
+Started the python exercises. I resolved problems from a python book
+
+### R1D3
+Started the python exercises. I resolved the Project Euler problem 6 and problems from a python book
