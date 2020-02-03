@@ -3,10 +3,8 @@ def get_smallest_multiple(max_divisor):
     initial_smallest_number = 2520
 
     while not is_find:
-        # print(initial_smallest_number)
         for i in range(max_divisor, 1, -1):
             if initial_smallest_number % i > 0:
-                # print(i)
                 break
             else:
                 if i == 2:
