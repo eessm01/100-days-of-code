@@ -12,3 +12,5 @@ Started the python exercises. I resolved problems from a python book
 
 ### R1D3
 Started the python exercises. I resolved the Project Euler problem 6 and problems from a python book
+
+### R1D4

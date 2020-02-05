@@ -50,3 +50,16 @@ Find the difference between the sum of the squares of the first one hundred natu
     dataStructuresAlgorithms/minmax_R-1_3.py
     dataStructuresAlgorithms/sum_squares_R-1_4.py
     project_euler/6_sum_square_difference.py
+
+
+### Day 4: Febraury 4, 2020. Problems from practice python and example from stackoverflow
+##### 
+
+**Today's Progress**: Problems from practice python and example from stackoverflow (list comprehension)
+
+**Thoughts:**  
+
+**Link to work:** This repository
+                practicepython/12_list_ends.py
+                practicepython/5_list_overlap.py
+                stackoverflow/two_list_comprehensions.py
