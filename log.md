@@ -63,3 +63,14 @@ Find the difference between the sum of the squares of the first one hundred natu
                 practicepython/12_list_ends.py
                 practicepython/5_list_overlap.py
                 stackoverflow/two_list_comprehensions.py
+
+### Day 5: Febraury 6, 2020. Practice Python, problems 7 and 16
+##### 
+
+**Today's Progress**: Problems from practice python
+
+**Thoughts:**  
+
+**Link to work:** This repository
+                practicepython/16_password_generator.py
+                practicepython/7_list_comprehensions.py

@@ -14,3 +14,7 @@ Started the python exercises. I resolved problems from a python book
 Started the python exercises. I resolved the Project Euler problem 6 and problems from a python book
 
 ### R1D4
+Problems from practice python and example from stackoverflow - list comprehension
+
+### R1D5
+Practice Python, problems 7 and 16
