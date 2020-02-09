@@ -74,3 +74,24 @@ Find the difference between the sum of the squares of the first one hundred natu
 **Link to work:** This repository
                 practicepython/16_password_generator.py
                 practicepython/7_list_comprehensions.py
+
+### Day 6: Febraury 7, 2020. Data Structures and Algorithms in Python, problems R-1.9, R-1.10, R-1.11
+##### 
+
+**Today's Progress**: Practice List Comprenhension
+
+**Thoughts:**  
+
+**Link to work:** This repository
+                dataStructuresAlgorithms/R-1-9-10-11_list_comprehensions.py
+
+### Day 7: Febraury 8, 2020. Data Structures and Algorithms in Python, problems C-1.14, C-1.15
+##### 
+
+**Today's Progress**: Practice List Comprenhension
+
+**Thoughts:**  
+
+**Link to work:** This repository
+                dataStructuresAlgorithms/C-1_14_pairs_numbers_product_odd.py
+                dataStructuresAlgorithms/C-1_15_numbers_different.py

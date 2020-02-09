@@ -18,3 +18,9 @@ Problems from practice python and example from stackoverflow - list comprehensio
 
 ### R1D5
 Practice Python, problems 7 and 16
+
+### R1D6
+Data Structures and Algorithms in Python, problems R-1.9, R-1.10, R-1.11
+
+### R1D7
+Data Structures and Algorithms in Python, problems C-1.14, C-1.15
