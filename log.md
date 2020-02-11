@@ -95,3 +95,13 @@ Find the difference between the sum of the squares of the first one hundred natu
 **Link to work:** This repository
                 dataStructuresAlgorithms/C-1_14_pairs_numbers_product_odd.py
                 dataStructuresAlgorithms/C-1_15_numbers_different.py
+
+### Day 8: Febraury 10, 2020. Data Structures and Algorithms in Python, problems C-1.18, C-1.19
+##### 
+
+**Today's Progress**: Practice List Comprenhension
+
+**Thoughts:**  
+
+**Link to work:** This repository
+                dataStructuresAlgorithms/C-1_18_19_list_comprehensions.py
