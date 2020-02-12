@@ -105,3 +105,15 @@ Find the difference between the sum of the squares of the first one hundred natu
 
 **Link to work:** This repository
                 dataStructuresAlgorithms/C-1_18_19_list_comprehensions.py
+
+### Day 9: Febraury 12, 2020. Data Structures and Algorithms in Python, problems C-1.20, C-1.22, and practice python problem 20.
+##### 
+
+**Today's Progress**: I still with logic problems
+
+**Thoughts:**  I have improved the use of lists = ) 
+
+**Link to work:** This repository
+                dataStructuresAlgorithms/C-1_20_suffle.py
+                dataStructuresAlgorithms/C-1_22_dot_product.py
+                practicepython/20_numbers_of_vowels.py

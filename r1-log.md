@@ -27,3 +27,6 @@ Data Structures and Algorithms in Python, problems C-1.14, C-1.15
 
 ### R1D8
 Data Structures and Algorithms in Python, problems C-1.18, C-1.19
+
+### R1D9
+Data Structures and Algorithms in Python, problems C-1.20, C-1.22, and practice python problem 20.
