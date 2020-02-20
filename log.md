@@ -117,3 +117,16 @@ Find the difference between the sum of the squares of the first one hundred natu
                 dataStructuresAlgorithms/C-1_20_suffle.py
                 dataStructuresAlgorithms/C-1_22_dot_product.py
                 practicepython/20_numbers_of_vowels.py
+
+### Day 10: Febraury 18, 2020. Think Python, problems unit 2: exercise 2.3 and 1 exercise from udacity
+##### 
+
+**Today's Progress**: I can make exercise about varables, expression and statements
+
+**Thoughts:**  It´s basic excercises
+
+**Link to work:** This repository
+                thinkpython/1_4_average_time_per_mile.py
+                thinkpython/2_3_python_as_a_calculator.py
+                udacity/classy.py
+

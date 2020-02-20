@@ -30,3 +30,6 @@ Data Structures and Algorithms in Python, problems C-1.18, C-1.19
 
 ### R1D9
 Data Structures and Algorithms in Python, problems C-1.20, C-1.22, and practice python problem 20.
+
+### Day 10: 
+Think Python, problems unit 2: exercise 2.3 and 1 exercise from udacity
