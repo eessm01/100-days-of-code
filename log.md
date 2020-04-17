@@ -130,3 +130,85 @@ Find the difference between the sum of the squares of the first one hundred natu
                 thinkpython/2_3_python_as_a_calculator.py
                 udacity/classy.py
 
+### Day 1: April 8, 2020. "Introducción al lenguaje Python" pages 5-11.
+##### 
+
+**Today's Progress**: I learned how to make an executable script, and from it, 
+    make a command.
+
+**Thoughts:** After abandoning the code for a while, I go back and start again with day 1. 
+    Now with exercises from "Introducción al lenguaje Python" by Eugenia Bahit 
+    (great person, excelent teacher). Also based on "Guía de estudio para autodidactas"
+    by Eugenia Bahit.
+
+**Link to work:** e_bahit/day1_hello.py
+
+### Day 2: April 9, 2020. "Introducción al lenguaje Python" pages 13-19.
+##### 
+
+**Today's Progress**: I learned how to use raw_input (Python2) and input (Python3) and
+    the differences between print (Python2) and print(Python3).
+
+**Thoughts:** 
+
+**Link to work:** e_bahit/day2_input.py
+                  e_bahit/day2_practice2.py
+
+### Day 3: April 10, 2020. "Introducción al lenguaje Python" pages 21-24.
+##### 
+
+**Today's Progress**: I learned how to use conding (python2) and how to use tuples,
+    list, dictionaries.
+
+**Thoughts:** 
+
+**Link to work:** e_bahit/day3_coding.py
+                  e_bahit/day3_colecciones.py
+
+### Day 4: April 11, 2020. "Introducción al lenguaje Python" pages 31-34.
+##### 
+
+**Today's Progress**: I learned how to use lists, tuples
+
+**Thoughts:** 
+
+**Link to work:** e_bahit/day4_control_flow.py
+
+### Day 5: April 12, 2020. "Introducción al lenguaje Python" pages 26-29.
+##### 
+
+**Today's Progress**: control flow, if-else
+
+**Thoughts:** 
+
+**Link to work:** e_bahit/day5_control_flow_if.py
+
+### Day 6: April 13, 2020. "Introducción al lenguaje Python" pages 36-38.
+##### 
+
+**Today's Progress**: I learned about funtions
+
+**Thoughts:** 
+
+**Link to work:** e_bahit/day6_funtions.py
+                  e_bahit/day6_practice6.py
+
+
+### Day 7: April 14, 2020. "Introducción al lenguaje Python" pages 39-40.
+##### 
+
+**Today's Progress**: I learned about funtions with arbitrary arguments and unpack arguments
+
+**Thoughts:** 
+
+**Link to work:** e_bahit/day7_desempaquetado_parametros.py
+                  e_bahit/day7_functions.py
+
+### Day 8: April 15, 2020. "Introducción al lenguaje Python" pages 41-42.
+##### 
+
+**Today's Progress**: I learned about recursive functions
+
+**Thoughts:** 
+
+**Link to work:** e_bahit/day8_practice_functions.py

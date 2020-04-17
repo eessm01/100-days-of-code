@@ -33,3 +33,28 @@ Data Structures and Algorithms in Python, problems C-1.20, C-1.22, and practice 
 
 ### Day 10: 
 Think Python, problems unit 2: exercise 2.3 and 1 exercise from udacity
+
+
+### Day 1:
+From book "Introducción al lenguaje Python" pages 5-11. script
+
+### Day 2:
+From book "Introducción al lenguaje Python" pages 13-19. input
+
+### Day 3:
+From book "Introducción al lenguaje Python" pages 21-24. Coding, collections
+
+### Day 4:
+From book "Introducción al lenguaje Python" pages 31-34. Control Flow
+
+### Day 5:
+From book "Introducción al lenguaje Python" pages 26-29. Control Flow if else
+
+### Day 6:
+From book "Introducción al lenguaje Python" pages 36-38. Funtions
+
+### Day 7:
+From book "Introducción al lenguaje Python" pages 39-40. Funtions
+
+### Day 8:
+From book "Introducción al lenguaje Python" pages 40-42. Funtions
