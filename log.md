@@ -25,8 +25,8 @@
 **Thoughts:**  
 
 **Link to work:** This repository: 
-    dataStructuresAlgorithms/is_even_R-1_1.py
-    dataStructuresAlgorithms/is_multiple_R-1_2.py
+    data_structurelgorithms/is_even_R-1_1.py
+    data_structurelgorithms/is_multiple_R-1_2.py
 
 ### Day 3: Febraury 2, 2020. Problems from a python book and project euler problem 6
 ##### 
@@ -47,8 +47,8 @@ Hence the difference between the sum of the squares of the first ten natural num
 Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
 
 **Link to work:** This repository: 
-    dataStructuresAlgorithms/minmax_R-1_3.py
-    dataStructuresAlgorithms/sum_squares_R-1_4.py
+    data_structurelgorithms/minmax_R-1_3.py
+    data_structurelgorithms/sum_squares_R-1_4.py
     project_euler/6_sum_square_difference.py
 
 
@@ -60,8 +60,8 @@ Find the difference between the sum of the squares of the first one hundred natu
 **Thoughts:**  
 
 **Link to work:** This repository
-                practicepython/12_list_ends.py
-                practicepython/5_list_overlap.py
+                practice_python/12_list_ends.py
+                practice_python/5_list_overlap.py
                 stackoverflow/two_list_comprehensions.py
 
 ### Day 5: Febraury 6, 2020. Practice Python, problems 7 and 16
@@ -72,8 +72,8 @@ Find the difference between the sum of the squares of the first one hundred natu
 **Thoughts:**  
 
 **Link to work:** This repository
-                practicepython/16_password_generator.py
-                practicepython/7_list_comprehensions.py
+                practice_python/16_password_generator.py
+                practice_python/7_list_comprehensions.py
 
 ### Day 6: Febraury 7, 2020. Data Structures and Algorithms in Python, problems R-1.9, R-1.10, R-1.11
 ##### 
@@ -83,7 +83,7 @@ Find the difference between the sum of the squares of the first one hundred natu
 **Thoughts:**  
 
 **Link to work:** This repository
-                dataStructuresAlgorithms/R-1-9-10-11_list_comprehensions.py
+                data_structures_algorithms/R-1-9-10-11_list_comprehensions.py
 
 ### Day 7: Febraury 8, 2020. Data Structures and Algorithms in Python, problems C-1.14, C-1.15
 ##### 
@@ -93,8 +93,8 @@ Find the difference between the sum of the squares of the first one hundred natu
 **Thoughts:**  
 
 **Link to work:** This repository
-                dataStructuresAlgorithms/C-1_14_pairs_numbers_product_odd.py
-                dataStructuresAlgorithms/C-1_15_numbers_different.py
+                data_structures_algorithms/C-1_14_pairs_numbers_product_odd.py
+                data_structures_algorithms/C-1_15_numbers_different.py
 
 ### Day 8: Febraury 10, 2020. Data Structures and Algorithms in Python, problems C-1.18, C-1.19
 ##### 
@@ -104,7 +104,7 @@ Find the difference between the sum of the squares of the first one hundred natu
 **Thoughts:**  
 
 **Link to work:** This repository
-                dataStructuresAlgorithms/C-1_18_19_list_comprehensions.py
+                data_structures_algorithms/C-1_18_19_list_comprehensions.py
 
 ### Day 9: Febraury 12, 2020. Data Structures and Algorithms in Python, problems C-1.20, C-1.22, and practice python problem 20.
 ##### 
@@ -114,9 +114,9 @@ Find the difference between the sum of the squares of the first one hundred natu
 **Thoughts:**  I have improved the use of lists = ) 
 
 **Link to work:** This repository
-                dataStructuresAlgorithms/C-1_20_suffle.py
-                dataStructuresAlgorithms/C-1_22_dot_product.py
-                practicepython/20_numbers_of_vowels.py
+                data_structures_algorithms/C-1_20_suffle.py
+                data_structures_algorithms/C-1_22_dot_product.py
+                practice_python/20_numbers_of_vowels.py
 
 ### Day 10: Febraury 18, 2020. Think Python, problems unit 2: exercise 2.3 and 1 exercise from udacity
 ##### 
@@ -126,8 +126,8 @@ Find the difference between the sum of the squares of the first one hundred natu
 **Thoughts:**  It´s basic excercises
 
 **Link to work:** This repository
-                thinkpython/1_4_average_time_per_mile.py
-                thinkpython/2_3_python_as_a_calculator.py
+                think_python/1_4_average_time_per_mile.py
+                think_python/2_3_python_as_a_calculator.py
                 udacity/classy.py
 
 ### Day 1: April 8, 2020. "Introducción al lenguaje Python" pages 5-11.
