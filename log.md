@@ -212,3 +212,40 @@ Find the difference between the sum of the squares of the first one hundred natu
 **Thoughts:** 
 
 **Link to work:** e_bahit/day8_practice_functions.py
+
+### Day 9: April 16, 2020. "Introducción al lenguaje Python" pages 41-42.
+##### 
+
+**Today's Progress**: I learned more about recursive functions
+
+**Thoughts:** 
+
+**Link to work:** e_bahit/day9_more_recursive_functions.py
+
+### Day 10: April 17, 2020. https://realpython.com/python-thinking-recursively/
+##### 
+
+**Today's Progress**: I learned more about recursive functions
+
+**Thoughts:** 
+
+**Link to work:** real_python/day10_11_dear_pythonic_santa_claus.py
+
+### Day 11: April 18, 2020. https://realpython.com/python-thinking-recursively/
+##### 
+
+**Today's Progress**: I learned more about recursive functions
+
+**Thoughts:** 
+
+**Link to work:** real_python/day10_11_dear_pythonic_santa_claus.py
+
+### Day 12: April 19, 2020. https://realpython.com/python-thinking-recursively/
+##### 
+
+**Today's Progress**: I learned more about recursive functions
+
+**Thoughts:** 
+
+**Link to work:** real_python/day12_recursive_sum.py
+                  real_python/day12_recursive_function_global_scope.py

@@ -58,3 +58,16 @@ From book "Introducción al lenguaje Python" pages 39-40. Funtions
 
 ### Day 8:
 From book "Introducción al lenguaje Python" pages 40-42. Funtions
+
+### Day 9:
+From book "Introducción al lenguaje Python" pages 40-42. Funtions
+
+### Day 10:
+From book "Introducción al lenguaje Python" pages 40-42. Funtions
+
+### Day 11:
+From https://realpython.com/python-thinking-recursively/
+
+### Day 12:
+From https://realpython.com/python-thinking-recursively/
+
