@@ -249,3 +249,13 @@ Find the difference between the sum of the squares of the first one hundred natu
 
 **Link to work:** real_python/day12_recursive_sum.py
                   real_python/day12_recursive_function_global_scope.py
+
+### Day 13: April 21, 2020. https://realpython.com/python-thinking-recursively/
+##### 
+
+**Today's Progress**: I learned more about recursive data structures
+
+**Thoughts:** 
+
+**Link to work:** real_python/day13_fibonacci_recursive.py
+                  real_python/day13_recursive_data_structures.py

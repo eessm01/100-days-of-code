@@ -71,3 +71,6 @@ From https://realpython.com/python-thinking-recursively/
 ### Day 12:
 From https://realpython.com/python-thinking-recursively/
 
+### Day 13:
+From https://realpython.com/python-thinking-recursively/ Recursive data structures.
+
