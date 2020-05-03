@@ -74,3 +74,8 @@ From https://realpython.com/python-thinking-recursively/
 ### Day 13:
 From https://realpython.com/python-thinking-recursively/ Recursive data structures.
 
+### Day 14:
+From book "Introducción al lenguaje Python" pages 45.
+
+### Day 15: 
+"Python para todos" pag. 36-41

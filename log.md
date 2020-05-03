@@ -259,3 +259,21 @@ Find the difference between the sum of the squares of the first one hundred natu
 
 **Link to work:** real_python/day13_fibonacci_recursive.py
                   real_python/day13_recursive_data_structures.py
+
+### Day 14: April 23, 2020. "Introducción al lenguaje Python" pages 45.
+##### 
+
+**Today's Progress**: I learned how can I injecting variables in a string
+
+**Thoughts:** 
+
+**Link to work:** e_bahit/day14_injecting_variables_practice.py
+
+### Day 15: May 2, 2020. "Python para todos" pages 36-41.
+##### 
+
+**Today's Progress**: I remember about python functions.
+
+**Thoughts:** 
+
+**Link to work:** python_para_todos/day15_more_about_functions.py
