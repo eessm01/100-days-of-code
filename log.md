@@ -277,3 +277,22 @@ Find the difference between the sum of the squares of the first one hundred natu
 **Thoughts:** 
 
 **Link to work:** python_para_todos/day15_more_about_functions.py
+
+### Day 16: May 3, 2020. Hangman game
+##### 
+
+**Today's Progress**: I create a hangman game for my son, the fist step is establish the 
+necessary functions.
+
+**Thoughts:** I learned about random library. I remembered constants and how injecting variables. 
+
+**Link to work:** games/hangman.py
+
+### Day 17: May 6, 2020. Hangman game
+##### 
+
+**Today's Progress**: I finished the hangman game for my son.
+
+**Thoughts:** I learned how I do modify a string in Python with enumerate and lists.
+
+**Link to work:** games/hangman.py

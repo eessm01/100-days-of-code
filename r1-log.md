@@ -78,4 +78,10 @@ From https://realpython.com/python-thinking-recursively/ Recursive data structur
 From book "Introducción al lenguaje Python" pages 45.
 
 ### Day 15: 
-"Python para todos" pag. 36-41
+From book "Python para todos" pag. 36-41
+
+### Day 16: 
+From book "hagnman game"
+
+### Day 17: 
+From book "hagnman game"
