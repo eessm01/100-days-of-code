@@ -296,3 +296,27 @@ necessary functions.
 **Thoughts:** I learned how I do modify a string in Python with enumerate and lists.
 
 **Link to work:** games/hangman.py
+
+### Day 18: May 12, 2020. Modules and packages from book "Python para todos" page 72-76
+##### 
+
+**Today's Progress**: I created a program with imports from different modules and packages
+
+**Thoughts:** Wooow, I learn about modules, packages, subpackages and the strange sintaxis
+              `if __name__ == '__main__'`
+
+**Link to work:** python_para_todos/day18_module_example.py
+                  python_para_todos/modulo.py
+                  python_para_todos/otro_modulo.py
+                  python_para_todos/paquete/buspaquete/moduloo.py
+    
+### Day 19: May 13, 2020. "Introducción al lenguaje Python" pages 46-48.
+##### 
+
+**Today's Progress**: Do the exercise suggested by Eugenia's study guide 
+
+**Thoughts:** Now I understand, it's great.
+
+**Link to work:** e_bahit/day18_principal_modules_packages.py
+                  e_bahit/paquete/modulo.py
+                  e_bahit/paquete/subpaquete/submodulo.py

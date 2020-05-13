@@ -85,3 +85,9 @@ From book "hagnman game"
 
 ### Day 17: 
 From book "hagnman game"
+
+### Day 18: 
+Modules and packages from book "Python para todos" page 72-76
+
+### Day 19: 
+"Introducción al lenguaje Python" pages 46-48.
