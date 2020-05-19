@@ -320,3 +320,36 @@ necessary functions.
 **Link to work:** e_bahit/day18_principal_modules_packages.py
                   e_bahit/paquete/modulo.py
                   e_bahit/paquete/subpaquete/submodulo.py
+
+
+### Day 20: May 17, 2020. "Real pythonn - Python Modules and Packages – An Introduction"
+#####
+
+**Today's Progress**:  I learn to use sys.path.append(r'path'), attribute __file__
+                       How a module contents can be imported from within a function definition
+                       And the module attribute __name__ and __main__
+                       Reloading a module.
+
+**Thoughts:** 
+
+**Link to work:** real_python/mod.py
+                  real_python/day20_modules_practice.py
+                  real_python/day20_modules_practice_2.py
+                  real_python/day20_modules_practice_3.py
+                  real_python/day20_modules_script.py
+
+### Day 21: May 18, 2020. "Real pythonn - Python Modules and Packages – An Introduction"
+#####
+
+**Today's Progress**:  I learn about python packages, packages initialization, variable __all__
+
+**Thoughts:** 
+
+**Link to work:** real_python/pkg/mod1.py
+                  real_python/pkg/mod2.py
+                  real_python/pkg/mod3.py
+                  real_python/pkg/mod4.py
+                  real_python/pkg2/sub_pkg1/mod1.py
+                  real_python/pkg2/sub_pkg1/mod2.py
+                  real_python/pkg2/sub_pkg2/mod3.py
+                  real_python/pkg2/sub_pkg2/mod4.py

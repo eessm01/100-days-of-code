@@ -1,2 +1,8 @@
 .DS_Store
 python_para_todos/paquete/.DS_Store
+
+# compiled files
+*.pyc
+
+# acceso a python
+access_code.txt
