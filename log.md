@@ -353,3 +353,16 @@ necessary functions.
                   real_python/pkg2/sub_pkg1/mod2.py
                   real_python/pkg2/sub_pkg2/mod3.py
                   real_python/pkg2/sub_pkg2/mod4.py
+
+### Day 22: May 20, 2020. "Introducción al lenguaje Python" pages 50-55.
+#####
+
+**Today's Progress**:  I finish the project1 about modules and packages. 
+                       And I learn how can I do functions for retrocompatibility
+
+**Thoughts:** I like it
+
+**Link to work:** e_bahit/proyecto1/libs/mod_edad.py
+                  e_bahit/proyecto1/__main__.py
+                  e_bahit/libs/retrocompatibilidad.py
+                  e_bahit/day22_retrocompatibilidad.py
