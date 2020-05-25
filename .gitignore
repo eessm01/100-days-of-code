@@ -1,4 +1,6 @@
 .DS_Store
+.vscode
+images
 python_para_todos/paquete/.DS_Store
 
 # compiled files
