@@ -384,3 +384,18 @@ necessary functions.
 **Link to work:** 
 - [e_bahit/proyecto2/libs/retrocompatibilidad.py](e_bahit/proyecto2/libs/retrocompatibilidad.py)
 - [e_bahit/proyecto2/day23_calculo_iva.py](e_bahit/proyecto2/day23_calculo_iva.py)
+
+
+### Day 24: May 24, 2020. Learn about how documenting my code. 
+##### 
+
+**Today's Progress**: "Python para todos" page 125. and Real python 
+[https://realpython.com/documenting-python-code/](https://realpython.com/documenting-python-code/)
+
+**Thoughts:** I want to improve my code start documenting it.
+
+**Link to work:** 
+- [python_para_todos/day24_docstrings.py](python_para_todos/day24_docstrings.py)
+- [python_para_todos/day24_ejemplo_pydoc.html](python_para_todos/day24_ejemplo_pydoc.html)
+- [python_para_todos/day24_ejemplo_pydoc.py](python_para_todos/day24_ejemplo_pydoc.py)
+- [real_python/pylint_tutorial/day24_example.py](real_python/pylint_tutorial/day24_example.py)        
