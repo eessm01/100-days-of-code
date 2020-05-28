@@ -274,7 +274,7 @@ Find the difference between the sum of the squares of the first one hundred natu
 **Today's Progress**: I remember about python functions.
 
 **Link to work:** 
-- [python_para_todos/day15_more_about_functions.py](python_para_todos/day15_more_about_functions.py)
+- [python_para_todos_p2/day15_more_about_functions.py](python_para_todos_p2/day15_more_about_functions.py)
 
 
 ### Day 16: May 3, 2020. Hangman game
@@ -309,10 +309,10 @@ necessary functions.
               `if __name__ == '__main__'`
 
 **Link to work:** 
-- [python_para_todos/day18_module_example.py](python_para_todos/day18_module_example.py)
-- [python_para_todos/modulo.py](python_para_todos/modulo.py)
-- [python_para_todos/otro_modulo.py](python_para_todos/otro_modulo.py)
-- [python_para_todos/paquete/buspaquete/moduloo.py](python_para_todos/paquete/buspaquete/moduloo.py)
+- [python_para_todos_p2/day18_module_example.py](python_para_todos_p2/day18_module_example.py)
+- [python_para_todos_p2/modulo.py](python_para_todos_p2/modulo.py)
+- [python_para_todos_p2/otro_modulo.py](python_para_todos_p2/otro_modulo.py)
+- [python_para_todos_p2/paquete/buspaquete/moduloo.py](python_para_todos_p2/paquete/buspaquete/moduloo.py)
 
 
 ### Day 19: May 13, 2020. "Introducción al lenguaje Python" pages 46-48.
@@ -395,7 +395,38 @@ necessary functions.
 **Thoughts:** I want to improve my code start documenting it.
 
 **Link to work:** 
-- [python_para_todos/day24_docstrings.py](python_para_todos/day24_docstrings.py)
-- [python_para_todos/day24_ejemplo_pydoc.html](python_para_todos/day24_ejemplo_pydoc.html)
-- [python_para_todos/day24_ejemplo_pydoc.py](python_para_todos/day24_ejemplo_pydoc.py)
+- [python_para_todos_p2/day24_docstrings.py](python_para_todos_p2/day24_docstrings.py)
+- [python_para_todos_p2/day24_ejemplo_pydoc.html](python_para_todos_p2/day24_ejemplo_pydoc.html)
+- [python_para_todos_p2/day24_ejemplo_pydoc.py](python_para_todos_p2/day24_ejemplo_pydoc.py)
 - [real_python/pylint_tutorial/day24_example.py](real_python/pylint_tutorial/day24_example.py)        
+
+
+### Day 25: May 26, 2020. "Python for Everybody" chapter 4. functions
+##### 
+
+**Today's Progress**: "Python for Everybody" page 43-54. Functions
+
+**Thoughts:** I remember about functions and I lear about flow of execution
+
+**Link to work:** 
+- [day25_fruitful_and_void_functions.py](day25_fruitful_and_void_functions.py)
+- [day25_functions_exercise6.py](day25_functions_exercise6.py)
+- [day25_lyrics.py](day25_lyrics.py)
+
+### Day 25: May 26, 2020. "Python for Everybody" chapter 5. Iteration
+##### 
+
+**Today's Progress**: "Python for Everybody" page 57-63. Iteration
+
+**Thoughts:** I remember how about use for, break and continue.
+
+**Link to work:** 
+- [day26_computegrade.py](day26_computegrade.py)
+- [day26_copytildone_break.py](day26_copytildone_break.py)
+- [day26_copytildone_continue.py](day26_copytildone_continue.py)
+- [day26_largest_num_with_for.py](day26_largest_num_with_for.py)
+- [day26_smallest_num_with_for.py](day26_smallest_num_with_for.py)
+
+
+
+
