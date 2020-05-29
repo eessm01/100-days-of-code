@@ -413,7 +413,7 @@ necessary functions.
 - [day25_functions_exercise6.py](day25_functions_exercise6.py)
 - [day25_lyrics.py](day25_lyrics.py)
 
-### Day 25: May 26, 2020. "Python for Everybody" chapter 5. Iteration
+### Day 26: May 27, 2020. "Python for Everybody" chapter 5. Iteration
 ##### 
 
 **Today's Progress**: "Python for Everybody" page 57-63. Iteration
@@ -428,5 +428,13 @@ necessary functions.
 - [day26_smallest_num_with_for.py](day26_smallest_num_with_for.py)
 
 
+### Day 27: May 28, 2020. "Python for Everybody" chapter 5. Iteration, exercises
+##### 
+
+**Today's Progress**: "Python for Everybody" page 64,65. Iteration, exercises
+
+**Link to work:** 
+- [day27_average.py](day27_average.py)
+- [day27_min_max.py](day27_min_max.py)
 
 

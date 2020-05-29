@@ -7,7 +7,9 @@ print statement.
 
 while True:
     line = input('> ')
-    if line[0] == '#':
+    # to avoid avIndexError: string index out of range
+    # if line[0] == '#':
+    if line.startswith('#'):
         continue
     if line == 'done':
         break
