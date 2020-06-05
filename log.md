@@ -22,9 +22,7 @@
 ### Day 2: Febraury 1, 2020. Problems from a python book 
 ##### 
 
-**Today's Progress**: Data Structures & Algorithms in Python, problem R-1.2, R-1.3.
-
-**Link to work:** This repository: 
+**Today's Progress**: Data Structures & Algornk to work:** This repository: 
 - [data_structurelgorithms/is_even_R-1_1.py](data_structurelgorithms/is_even_R-1_1.py)
 - [data_structurelgorithms/is_multiple_R-1_2.py](data_structurelgorithms/is_multiple_R-1_2.py)
 
@@ -409,9 +407,9 @@ necessary functions.
 **Thoughts:** I remember about functions and I lear about flow of execution
 
 **Link to work:** 
-- [day25_fruitful_and_void_functions.py](day25_fruitful_and_void_functions.py)
-- [day25_functions_exercise6.py](day25_functions_exercise6.py)
-- [day25_lyrics.py](day25_lyrics.py)
+- [python_for_everybody_p3/day25_fruitful_and_void_functions.py](python_for_everybody_p3/day25_fruitful_and_void_functions.py)
+- [python_for_everybody_p3/day25_functions_exercise6.py](python_for_everybody_p3/day25_functions_exercise6.py)
+- [python_for_everybody_p3/day25_lyrics.py](python_for_everybody_p3/day25_lyrics.py)
 
 ### Day 26: May 27, 2020. "Python for Everybody" chapter 5. Iteration
 ##### 
@@ -421,11 +419,11 @@ necessary functions.
 **Thoughts:** I remember how about use for, break and continue.
 
 **Link to work:** 
-- [day26_computegrade.py](day26_computegrade.py)
-- [day26_copytildone_break.py](day26_copytildone_break.py)
-- [day26_copytildone_continue.py](day26_copytildone_continue.py)
-- [day26_largest_num_with_for.py](day26_largest_num_with_for.py)
-- [day26_smallest_num_with_for.py](day26_smallest_num_with_for.py)
+- [python_for_everybody_p3/day26_computegrade.py](python_for_everybody_p3/day26_computegrade.py)
+- [python_for_everybody_p3/day26_copytildone_break.py](python_for_everybody_p3/day26_copytildone_break.py)
+- [python_for_everybody_p3/day26_copytildone_continue.py](python_for_everybody_p3/day26_copytildone_continue.py)
+- [python_for_everybody_p3/day26_largest_num_with_for.py](python_for_everybody_p3/day26_largest_num_with_for.py)
+- [python_for_everybody_p3/day26_smallest_num_with_for.py](python_for_everybody_p3/day26_smallest_num_with_for.py)
 
 
 ### Day 27: May 28, 2020. "Python for Everybody" chapter 5. Iteration, exercises
@@ -434,7 +432,67 @@ necessary functions.
 **Today's Progress**: "Python for Everybody" page 64,65. Iteration, exercises
 
 **Link to work:** 
-- [day27_average.py](day27_average.py)
-- [day27_min_max.py](day27_min_max.py)
+- [python_for_everybody_p3/day27_average.py](python_for_everybody_p3/day27_average.py)
+- [python_for_everybody_p3/day27_min_max.py](python_for_everybody_p3/day27_min_max.py)
+
+
+### Day 29: May 29, 2020. "Curso de Introducción al Pensamiento Computacional con Python"
+
+**Link to work:**
+- [platzi_comp_thinking/greeting.py](platzi_comp_thinking/greeting.py)
+- [platzi_comp_thinking/compare_ages.py](platzi_comp_thinking/compare_ages.py)
+- [platzi_comp_thinking/branched_programs.py](platzi_comp_thinking/branched_programs.py)
+
+
+### Day 30: May 30, 2020. "Curso de Introducción al Pensamiento Computacional con Python"
+
+**Today's Progress**: Wow! I remembered why floating numbers aren't exact.
+
+**Link to work:**
+- [platzi_comp_thinking/iterations.py](platzi_comp_thinking/iterations.py)
+- [platzi_comp_thinking/for_loop_for_dict.py](platzi_comp_thinking/for_loop_for_dict.py)
+- [platzi_comp_thinking/float.py](platzi_comp_thinking/float.py)
+
+
+### Day 31: May 31, 2020. "Curso de Introducción al Pensamiento Computacional con Python"
+
+**Link to work:**
+- [platzi_comp_thinking/enum_exahustive_s2.py](platzi_comp_thinking/enum_exahustive_s2.py)
+- [platzi_comp_thinking/approximation_raiz2.py](platzi_comp_thinking/approximation_raiz2.py)
+- [platzi_comp_thinking/binary_search_s2.py](platzi_comp_thinking/binary_search_s2.py)
+
+
+### Day 32: Jun 1, 2020. "Curso de Introducción al Pensamiento Computacional con Python"
+
+**Today's Progress**: I work with scopes, and I remember how pass arguments to functions
+
+**Link to work:**
+- [platzi_comp_thinking/function_params.py](platzi_comp_thinking/function_params.py)
+- [platzi_comp_thinking/scopes.py](platzi_comp_thinking/scopes.py)
+- [platzi_comp_thinking/square2_with_functions.py](platzi_comp_thinking/square2_with_functions.py)
+
+
+### Day 33: Jun 2, 2020. "Curso de Introducción al Pensamiento Computacional con Python"
+
+**Today's Progress**: Recursive functions, this link is very good for understand
+[https://realpython.com/python-thinking-recursively/](https://realpython.com/python-thinking-recursively/)
+
+**Link to work:**
+- [platzi_comp_thinking/factorial.py](platzi_comp_thinking/factorial.py)
+- [platzi_comp_thinking/fibonacci.py](platzi_comp_thinking/fibonacci.py)
+- [platzi_comp_thinking/fibinacci_without_recursion.py](platzi_comp_thinking/fibinacci_without_recursion.py)
+
+
+### Day 34: Jun 3, 2020. "Curso de Introducción al Pensamiento Computacional con Python"
+
+**Today's Progress**: Wow! Tuple's constructor is a comma.
+
+**Link to work:**
+- [platzi_comp_thinking/func_as_objects.py](platzi_comp_thinking/func_as_objects.py)
+- [platzi_comp_thinking/tuple_is_inmutable.py](platzi_comp_thinking/tuple_is_inmutable.py)
+- [platzi_comp_thinking/list_is_mutable.py](platzi_comp_thinking/list_is_mutable.py)
+- [platzi_comp_thinking/range_is_inmutable.py](platzi_comp_thinking/range_is_inmutable.py)
+- [platzi_comp_thinking/dictionaries.py](platzi_comp_thinking/dictionaries.py)
+
 
 
