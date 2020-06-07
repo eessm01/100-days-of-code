@@ -495,4 +495,12 @@ necessary functions.
 - [platzi_comp_thinking/dictionaries.py](platzi_comp_thinking/dictionaries.py)
 
 
+### Day 35: Jun 5, 2020. "Python for Everybody". Dr. Charles R. Severance, chapter 6. Strings
 
+**Today's Progress**: I finished the chapter = ) 
+
+**Link to work:**
+- [python_for_everybody_p3/day35_counter_letter_string.py](python_for_everybody_p3/day35_counter_letter_string.py)
+- [python_for_everybody_p3/day35_exercises.py](python_for_everybody_p3/day35_exercises.py)
+- [python_for_everybody_p3/day35_reverse_string.py](python_for_everybody_p3/day35_reverse_string.py)
+- [python_for_everybody_p3/day35_string_comparison.py](python_for_everybody_p3/day35_string_comparison.py)
