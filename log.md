@@ -436,7 +436,7 @@ necessary functions.
 - [python_for_everybody_p3/day27_min_max.py](python_for_everybody_p3/day27_min_max.py)
 
 
-### Day 29: May 29, 2020. "Curso de Introducción al Pensamiento Computacional con Python"
+### Day 29: May 29, 2020. "Curso de Introducción al Pensamiento Computacional con Python" platzi
 
 **Link to work:**
 - [platzi_comp_thinking/greeting.py](platzi_comp_thinking/greeting.py)
@@ -444,7 +444,7 @@ necessary functions.
 - [platzi_comp_thinking/branched_programs.py](platzi_comp_thinking/branched_programs.py)
 
 
-### Day 30: May 30, 2020. "Curso de Introducción al Pensamiento Computacional con Python"
+### Day 30: May 30, 2020. "Curso de Introducción al Pensamiento Computacional con Python" platzi
 
 **Today's Progress**: Wow! I remembered why floating numbers aren't exact.
 
@@ -454,7 +454,7 @@ necessary functions.
 - [platzi_comp_thinking/float.py](platzi_comp_thinking/float.py)
 
 
-### Day 31: May 31, 2020. "Curso de Introducción al Pensamiento Computacional con Python"
+### Day 31: May 31, 2020. "Curso de Introducción al Pensamiento Computacional con Python" platzi
 
 **Link to work:**
 - [platzi_comp_thinking/enum_exahustive_s2.py](platzi_comp_thinking/enum_exahustive_s2.py)
@@ -462,7 +462,7 @@ necessary functions.
 - [platzi_comp_thinking/binary_search_s2.py](platzi_comp_thinking/binary_search_s2.py)
 
 
-### Day 32: Jun 1, 2020. "Curso de Introducción al Pensamiento Computacional con Python"
+### Day 32: Jun 1, 2020. "Curso de Introducción al Pensamiento Computacional con Python" platzi
 
 **Today's Progress**: I work with scopes, and I remember how pass arguments to functions
 
@@ -472,7 +472,7 @@ necessary functions.
 - [platzi_comp_thinking/square2_with_functions.py](platzi_comp_thinking/square2_with_functions.py)
 
 
-### Day 33: Jun 2, 2020. "Curso de Introducción al Pensamiento Computacional con Python"
+### Day 33: Jun 2, 2020. "Curso de Introducción al Pensamiento Computacional con Python" platzi
 
 **Today's Progress**: Recursive functions, this link is very good for understand
 [https://realpython.com/python-thinking-recursively/](https://realpython.com/python-thinking-recursively/)
@@ -483,7 +483,7 @@ necessary functions.
 - [platzi_comp_thinking/fibinacci_without_recursion.py](platzi_comp_thinking/fibinacci_without_recursion.py)
 
 
-### Day 34: Jun 3, 2020. "Curso de Introducción al Pensamiento Computacional con Python"
+### Day 34: Jun 3, 2020. "Curso de Introducción al Pensamiento Computacional con Python" platzi
 
 **Today's Progress**: Wow! Tuple's constructor is a comma.
 
@@ -504,3 +504,22 @@ necessary functions.
 - [python_for_everybody_p3/day35_exercises.py](python_for_everybody_p3/day35_exercises.py)
 - [python_for_everybody_p3/day35_reverse_string.py](python_for_everybody_p3/day35_reverse_string.py)
 - [python_for_everybody_p3/day35_string_comparison.py](python_for_everybody_p3/day35_string_comparison.py)
+
+
+### Day 36: Jun 7, 2020. "Curso de Introducción al Pensamiento Computacional con Python" platzi
+
+**Link to work:** 
+- [latzi_comp_thinking/crystal_box_testing.py](crystal_box_testing.py)
+- [black_box_testing.py](black_box_testing.py)
+
+
+### Day 37: Jun 8, 2020. "Curso de Introducción al Pensamiento Computacional con Python" platzi
+
+**Link to work:** 
+- [examples_asserts.py](examples_asserts.py)
+- [exeptions.py](exeptions.py)
+
+
+
+
+
