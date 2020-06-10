@@ -509,17 +509,23 @@ necessary functions.
 ### Day 36: Jun 7, 2020. "Curso de Introducción al Pensamiento Computacional con Python" platzi
 
 **Link to work:** 
-- [latzi_comp_thinking/crystal_box_testing.py](crystal_box_testing.py)
-- [black_box_testing.py](black_box_testing.py)
+- [platzi_comp_thinking/crystal_box_testing.py](platzi_comp_thinking/crystal_box_testing.py)
+- [platzi_comp_thinking/black_box_testing.py](platzi_comp_thinking/black_box_testing.py)
 
 
 ### Day 37: Jun 8, 2020. "Curso de Introducción al Pensamiento Computacional con Python" platzi
 
 **Link to work:** 
-- [examples_asserts.py](examples_asserts.py)
-- [exeptions.py](exeptions.py)
+- [platzi_comp_thinking/examples_asserts.py](platzi_comp_thinking/examples_asserts.py)
+- [platzi_comp_thinking/exeptions.py](platzi_comp_thinking/exeptions.py)
 
 
+### Day 38: Jun 9, 2020. "Python para todos" by Raúl González Duque
+
+**Link to work:** 
+- [python_para_todos_p2/day38_encapsulation.py](python_para_todos_p2/day38_encapsulation.py)
+- [python_para_todos_p2/day38_objects.py](python_para_todos_p2/day38_objects.py)
+- [python_para_todos_p2/day38_objects_inheritance.py](python_para_todos_p2/day38_objects_inheritance.py)
 
 
 
