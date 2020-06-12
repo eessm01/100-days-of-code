@@ -27,6 +27,10 @@ class Fecha():
 
 
 # Python 2.x Class Definition:
+# The (object) part in parentheses specifies the parent class 
+# that you are inheriting from (more on this below.) 
+# In Python 3 this is no longer necessary because it is the 
+# implicit default.
 class Persona(object):
     def __init__(self):
         self.__edad = 0

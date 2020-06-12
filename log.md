@@ -520,7 +520,7 @@ necessary functions.
 - [platzi_comp_thinking/exeptions.py](platzi_comp_thinking/exeptions.py)
 
 
-### Day 38: Jun 9, 2020. "Python para todos" by Raúl González Duque
+### Day 38: Jun 9, 2020. "Python para todos" by Raúl González Duque. page 42 to 52
 
 **Link to work:** 
 - [python_para_todos_p2/day38_encapsulation.py](python_para_todos_p2/day38_encapsulation.py)
@@ -528,4 +528,20 @@ necessary functions.
 - [python_para_todos_p2/day38_objects_inheritance.py](python_para_todos_p2/day38_objects_inheritance.py)
 
 
+### Day 39: Jun 10, 2020. Object-Oriented Programming (OOP) in Python 3. Real Python
 
+**Link to work:** 
+- [/real_python/day39_class_Dog.py](/real_python/day39_class_Dog.py)
+
+
+### Day 40: Jun 10, 2020. Object-Oriented Programming (OOP) in Python 3. Real Python
+
+**Link to work:** 
+- [/real_python/day40_pets_class.py](/real_python/day40_pets_class.py)
+
+### Day 41: Jun 11, 2020. "Curso de POO y Algoritmos con Python" platzi
+
+**Link to work:** 
+- [platzi_OOP_python/hotel.py](platzi_OOP_python/hotel.py)
+- [platzi_OOP_python/persona.py](platzi_OOP_python/persona.py)
+- [platzi_OOP_python/coordenadas.py](platzi_OOP_python/coordenadas.py)

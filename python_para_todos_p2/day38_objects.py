@@ -1,5 +1,8 @@
 class Coche:
-    """Abstraccion de los objetos coche"""
+    """Abstraccion de los objetos coche
+    
+    For the name of the class using CamelCase notation.
+    """
     def __init__(self, gasolina):
         self.gasolina = gasolina
         print('Tenemos {} litros'.format(self.gasolina))
