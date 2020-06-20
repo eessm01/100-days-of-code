@@ -539,9 +539,57 @@ necessary functions.
 **Link to work:** 
 - [/real_python/day40_pets_class.py](/real_python/day40_pets_class.py)
 
+
 ### Day 41: Jun 11, 2020. "Curso de POO y Algoritmos con Python" platzi
 
 **Link to work:** 
 - [platzi_OOP_python/hotel.py](platzi_OOP_python/hotel.py)
 - [platzi_OOP_python/persona.py](platzi_OOP_python/persona.py)
 - [platzi_OOP_python/coordenadas.py](platzi_OOP_python/coordenadas.py)
+
+
+### Day 42: Jun 12, 2020. "Curso de POO y Algoritmos con Python" platzi
+
+**Link to work:** 
+- [platzi_OOP_python/abstraccion.py](platzi_OOP_python/abstraccion.py)
+- [platzi_OOP_python/descomposicion.py](platzi_OOP_python/descomposicion.py)
+
+
+### Day 43: Jun 14, 2020. https://pythones.net/propiedades-en-python-oop/
+
+**Link to work:** 
+- [pythones/opp_Perros.py](pythones/opp_Perros.py)
+- [pythones/opp_user.py](pythones/opp_user.py)
+ 
+
+### Day 44: Jun 15, 2020. "Curso de POO y Algoritmos con Python" platzi
+
+**Link to work:** 
+- [platzi_OOP_python/polimorfismo.py](platzi_OOP_python/polimorfismo.py)
+- [platzi_OOP_python/herencia.py](platzi_OOP_python/herencia.py)
+
+
+### Day 45: Jun 16, 2020. "Curso de POO y Algoritmos con Python" platzi
+
+**Link to work:** 
+- [platzi_OOP_python/complejidad_algoritmica_tiempo.py](platzi_OOP_python/complejidad_algoritmica_tiempo.py)
+- [platzi_OOP_python/complejidad_algoritmica_bigO.py](platzi_OOP_python/complejidad_algoritmica_bigO.py)
+
+
+### Day 46: Jun 17, 2020. "Curso de POO y Algoritmos con Python" and "Python Crash Course" book.
+
+**Link to work:** 
+- [platzi_OOP_python/busqueda_binaria.py](platzi_OOP_python/busqueda_binaria.py)
+- [platzi_OOP_python/busqueda_lineal.py](platzi_OOP_python/busqueda_lineal.py)
+- [python_crash_course/favorite_lenguages.py](python_crash_course/favorite_lenguages.py)
+- [python_crash_course/my_car.py](python_crash_course/my_car.py)
+- [python_crash_course/car.py](python_crash_course/car.py)
+
+
+### Day 47: Jun 19, 2020. "Data Structures and Algorithms in Python". Examples about OPP
+
+**Link to work:** 
+- [data_structures_algorithms/credit_card_class.py](data_structures_algorithms/credit_card_class.py)
+- [data_structures_algorithms/range_class.py]
+- [data_structures_algorithms/sequence_iterator_class.py]
+- [data_structures_algorithms/vector_class.py]

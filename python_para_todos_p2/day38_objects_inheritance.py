@@ -15,6 +15,8 @@ class Cello(Instrumento):
     pass
 
 class Bateria(Instrumento):
+
+    # sobreescritura del constructor
     def __init__(self, num_platillos):
         self.num_platillos = num_platillos
 
@@ -22,7 +24,9 @@ class Bateria(Instrumento):
 class Guitarra(Instrumento):
     def __init__(self, precio, tipo_cuerda):
         # en este caso es necesario especificar el parámetro self
-        Instrumento.__init__(self, precio) 
+        # Instrumento.__init__(self, precio) 
+        # o
+        super().__init__(precio) 
         self.tipo_cuerda = tipo_cuerda
 
 
@@ -38,8 +42,8 @@ class Acuatico:
     def desplazar(self):
         print('El animal nada')
 
-    def comer(self, animal):
-        print('come animales marinos')
+    def comer(self, animales):
+        print('come {}'.format(animales))
 
 
 class Cocodrilo(Terrestre, Acuatico):
@@ -73,6 +77,6 @@ if __name__ == '__main__':
 
     coco = Cocodrilo()
     coco.desplazar()
-    coco.comer()
+    coco.comer('peces')
     
     
