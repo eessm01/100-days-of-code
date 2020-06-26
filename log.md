@@ -590,6 +590,37 @@ necessary functions.
 
 **Link to work:** 
 - [data_structures_algorithms/credit_card_class.py](data_structures_algorithms/credit_card_class.py)
-- [data_structures_algorithms/range_class.py]
-- [data_structures_algorithms/sequence_iterator_class.py]
-- [data_structures_algorithms/vector_class.py]
+- [data_structures_algorithms/range_class.py](data_structures_algorithms/range_class.py)
+- [data_structures_algorithms/sequence_iterator_class.py](data_structures_algorithms/sequence_iterator_class.py)
+- [data_structures_algorithms/vector_class.py](data_structures_algorithms/vector_class.py)
+
+
+### Day 48: Jun 21, 2020. "Data Structures and Algorithms in Python". Examples about OPP
+
+**Link to work:** 
+- [platzi_OOP_python/ordenamiento_burbuja.py](platzi_OOP_python/ordenamiento_burbuja.py)
+- [platzi_OOP_python/bubble_sort.py](platzi_OOP_python/bubble_sort.py)
+
+
+### Day 49: Jun 22, 2020. "Data Structures and Algorithms in Python". Examples about OPP
+
+**Link to work:** 
+- [platzi_OOP_python/insertion_sort.py](platzi_OOP_python/insertion_sort.py)
+
+
+### Day 50: Jun 23, 2020. "Data Structures and Algorithms in Python". Examples about OPP
+
+**Link to work:** 
+- [platzi_OOP_python/merge_sort.py](platzi_OOP_python/merge_sort.py)
+
+
+### Day 51: Jun 24, 2020. "Data Structures and Algorithms in Python". Examples about OPP
+
+**Link to work:** 
+- [platzi_OOP_python/graficado/graficado_simple.py](platzi_OOP_python/graficado/graficado_simple.py)
+
+
+### Day 52: Jun 25, 2020. "Data Structures and Algorithms in Python". Examples about OPP
+
+**Link to work:** 
+- [platzi_OOP_python/morral.py](platzi_OOP_python/morral.py)
