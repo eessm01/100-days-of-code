@@ -624,3 +624,27 @@ necessary functions.
 
 **Link to work:** 
 - [platzi_OOP_python/morral.py](platzi_OOP_python/morral.py)
+
+
+### Day 53: Jun 26, 2020. "Python para todos". List comprehension, generators and decorators.
+
+**Link to work:** 
+- [python_para_todos_p2/decorators.py](python_para_todos_p2/decorators.py)
+- [python_para_todos_p2/generators.py](python_para_todos_p2/generators.py)
+- [python_para_todos_p2/list_comprehension.py](python_para_todos_p2/list_comprehension.py)
+
+
+### Day 54: Jun 28, 2020. "The Original Hacker N.3.". Lambdas y closures
+
+**Link to work:** 
+- [e_bahit/lambdas_functions.py](e_bahit/lambdas_functions.py)
+- [e_bahit/closures.py](e_bahit/closures.py)
+
+
+### Day 55: Jun 29, 2020. "The Original Hacker N.4.". Decorators, wrappers
+
+**Link to work:** 
+- [e_bahit/decorators.py](e_bahit/decorators.py)
+- [e_bahit/why_decorators.py](e_bahit/why_decorators.py)
+- [e_bahit/decorators_data_control.py](e_bahit/decorators_data_control.py)
+- [e_bahit/wrappers_decorators.py](e_bahit/wrappers_decorators.py)

@@ -2,6 +2,7 @@
 .vscode
 images
 python_para_todos/paquete/.DS_Store
+platzi_OOP_python/graficado/env/
 
 # compiled files
 *.pyc
