@@ -1,6 +1,7 @@
 .DS_Store
 .vscode
 images
+__pycache__/
 python_para_todos/paquete/.DS_Store
 platzi_OOP_python/graficado/env/
 
