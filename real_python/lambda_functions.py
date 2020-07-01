@@ -59,4 +59,6 @@ def some_decorator(f):
         return f(args)
     return wraps
 
-    
+@some_decorator
+def decorated_function(x):
+    print(f'With argument {x}')
