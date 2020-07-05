@@ -648,3 +648,28 @@ necessary functions.
 - [e_bahit/why_decorators.py](e_bahit/why_decorators.py)
 - [e_bahit/decorators_data_control.py](e_bahit/decorators_data_control.py)
 - [e_bahit/wrappers_decorators.py](e_bahit/wrappers_decorators.py)
+
+
+### Day 56: Jul 1, 2020. "Real Python". lambdas
+
+**Link to work:** 
+- [real_python/lambda_expression_abuses.py](real_python/lambda_expression_abuses.py)
+- [real_python/testing_lambdas.py](real_python/testing_lambdas.py)
+- [real_python/lambda_functions.py](real_python/lambda_functions.py)
+
+
+### Day 57: Jul 4, 2020. "Python for everybody". Chapter 7. Files
+
+**Link to work:** 
+- [python_for_everybody_p3/open.py](python_for_everybody_p3/open.py)
+- [python_for_everybody_p3/Using_try_except_open.py](python_for_everybody_p3/Using_try_except_open.py)
+- [python_for_everybody_p3/choosing_the_file_name.py](python_for_everybody_p3/choosing_the_file_name.py)
+- [python_for_everybody_p3/searching_through_a_file.py](python_for_everybody_p3/searching_through_a_file.py)
+
+
+### Day 58: Jul 5, 2020. "Python for everybody". Chapter 7. Files
+
+**Link to work:** 
+- [python_for_everybody_p3/writing_files.py](python_for_everybody_p3/writing_files.py)
+- [python_for_everybody_p3/files_exercise1.py](python_for_everybody_p3/files_exercise1.py)    
+- [python_for_everybody_p3/file_exercise2.py](python_for_everybody_p3/file_exercise2.py)

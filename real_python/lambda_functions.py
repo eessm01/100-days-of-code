@@ -62,3 +62,100 @@ def some_decorator(f):
 @some_decorator
 def decorated_function(x):
     print(f'With argument {x}')
+
+
+decorated_function(5, 7, '22', {'uno':1})
+
+decorated_function(6)
+
+# Defining a decorator
+def trace(f):
+    def wrap(*args, **kwargs):
+        print(f'[TRACE] func: {f.__name__}, args: {args}, kwargs: {kwargs}')
+        return f(*args, **kwargs)
+    return wrap
+
+# Applying decorator to a function
+@trace
+def add_two(x):
+    return x + 2
+
+# Calling the decorated function
+print( 
+    add_two(x=5) 
+)
+
+def add_five(x):
+    return x + 5
+
+print(
+    trace(add_five)(7)
+)
+
+# Applying decorator to a lambda
+print(
+    (trace(lambda x: x ** 2))(3)
+)
+
+lista = list(map(trace(lambda x: x ** 2), range(5)))
+print(lista)
+
+
+# closures
+def outer_func(x):
+    y = 4
+    def inner_func(z):
+        print(f'x = {x}, y = {y}, z = {z}')
+        return x + y + z
+    return inner_func
+
+
+for i in range(3):
+    closure = outer_func(i)
+    print(f'closure({i+5}) = {closure(i+5)}')
+
+
+def outer_func_lambda(x):
+    y = 4
+    return lambda z: x + y + z
+
+print()
+
+for i in range(3):
+    closure = outer_func_lambda(i)
+    print(f'closure({i+5}) = {closure(i+5)}')
+
+
+print('* * * Evaluation Time * * * ')
+
+def wrap(n):
+    def f():
+        print(n)
+    return f
+
+numbers = 'one', 'two', 'three'  # this is a tuple
+funcs = []
+for n in numbers:
+    funcs.append(wrap(n))
+
+for f in funcs:
+    f()
+
+print('Whit lambda funcion')
+
+funcs2 = []
+for n in numbers:
+    funcs2.append(lambda: print(n))
+
+for f in funcs2:
+    f()
+
+print('Whit lambda funcion, assign the free variable at definition time')
+
+funcs2.clear()
+
+for n in numbers:
+    funcs2.append(lambda x=n: print(x))
+
+for f in funcs2:
+    f()

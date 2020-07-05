@@ -8,6 +8,7 @@ platzi_OOP_python/graficado/env/
 # compiled files
 *.pyc
 *.png
+*.txt
 
 # acceso a python
 access_code.txt
