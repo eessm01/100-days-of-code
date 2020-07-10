@@ -9,6 +9,7 @@ platzi_OOP_python/graficado/env/
 *.pyc
 *.png
 *.txt
+*.csv
 
 # acceso a python
 access_code.txt

@@ -673,3 +673,26 @@ necessary functions.
 - [python_for_everybody_p3/writing_files.py](python_for_everybody_p3/writing_files.py)
 - [python_for_everybody_p3/files_exercise1.py](python_for_everybody_p3/files_exercise1.py)    
 - [python_for_everybody_p3/file_exercise2.py](python_for_everybody_p3/file_exercise2.py)
+
+
+### Day 59: Jul 6, 2020. "Python para todos". Archivos. pg 83-84
+
+**Link to work:** 
+- [python_para_todos_p2/open_file.py](python_para_todos_p2/open_file.py)
+- [python_para_todos_p2/write_file.py](python_para_todos_p2/write_file.py)
+
+
+### Day 60: Jul 8, 2020. "Real Python". Working With Files in Python
+
+**Link to work:** 
+- [real_python/files_with_open.py](real_python/files_with_open.py)
+
+
+### Day 61: Jul 9, 2020. "Ciencia de Datos con Python". Eugenia Bahit. page. 24-31
+
+**Link to work:** 
+- [e_bahit_data_science/csv_files_DictReader.py](e_bahit_data_science/csv_files_DictReader.py)
+- [e_bahit_data_science/csv_files_reading.py](e_bahit_data_science/csv_files_reading.py)
+- [e_bahit_data_science/csv_files_writting.py](e_bahit_data_science/csv_files_writting.py)
+- [e_bahit_data_science/csv_files_writting_with_header.py](e_bahit_data_science/csv_files_writting_with_header.py)
+- [e_bahit_data_science/with_open_files.py](e_bahit_data_science/with_open_files.py)
