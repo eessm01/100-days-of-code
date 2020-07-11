@@ -696,3 +696,11 @@ necessary functions.
 - [e_bahit_data_science/csv_files_writting.py](e_bahit_data_science/csv_files_writting.py)
 - [e_bahit_data_science/csv_files_writting_with_header.py](e_bahit_data_science/csv_files_writting_with_header.py)
 - [e_bahit_data_science/with_open_files.py](e_bahit_data_science/with_open_files.py)
+
+
+### Day 62: Jul 10, 2020. "Ciencia de Datos con Python". Eugenia Bahit. page. 6-11
+
+**Link to work:** 
+- [e_bahit_data_science/working_strings_format.py](e_bahit_data_science/working_strings_format.py)
+- [e_bahit_data_science/working_strings_search.py](e_bahit_data_science/working_strings_search.py)
+- [e_bahit_data_science/working_strings_valitation.py](e_bahit_data_science/working_strings_valitation.py)
