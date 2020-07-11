@@ -704,3 +704,10 @@ necessary functions.
 - [e_bahit_data_science/working_strings_format.py](e_bahit_data_science/working_strings_format.py)
 - [e_bahit_data_science/working_strings_search.py](e_bahit_data_science/working_strings_search.py)
 - [e_bahit_data_science/working_strings_valitation.py](e_bahit_data_science/working_strings_valitation.py)
+
+
+### Day 63: Jul 11, 2020. "Ciencia de Datos con Python". Eugenia Bahit. page. 11-14
+
+**Link to work:** 
+- [e_bahit_data_science/working_strings_operations.py](e_bahit_data_science/working_strings_operations.py)
+- [e_bahit_data_science/working_strings_operations.py](e_bahit_data_science/working_strings_replace.py)
