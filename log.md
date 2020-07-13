@@ -710,4 +710,10 @@ necessary functions.
 
 **Link to work:** 
 - [e_bahit_data_science/working_strings_operations.py](e_bahit_data_science/working_strings_operations.py)
-- [e_bahit_data_science/working_strings_operations.py](e_bahit_data_science/working_strings_replace.py)
+- [e_bahit_data_science/working_strings_replace.py](e_bahit_data_science/working_strings_replace.py)
+
+
+### Day 64: Jul 12, 2020. "Ciencia de Datos con Python". Eugenia Bahit. week 1 exercise.
+
+- [e_bahit_data_science/week1_exercise.py](e_bahit_data_science/week1_exercise.py)
+        
