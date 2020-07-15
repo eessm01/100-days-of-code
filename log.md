@@ -715,5 +715,13 @@ necessary functions.
 
 ### Day 64: Jul 12, 2020. "Ciencia de Datos con Python". Eugenia Bahit. week 1 exercise.
 
+**Link to work:** 
 - [e_bahit_data_science/week1_exercise.py](e_bahit_data_science/week1_exercise.py)
-        
+
+
+### Day 65: Jul 14, 2020. "Ciencia de Datos con Python". Eugenia Bahit. lists and tuples.
+
+**Link to work:** 
+- [e_bahit_data_science/working_lists_tuples.py](e_bahit_data_science/working_lists_tuples.py)
+- [e_bahit_data_science/working_lists_tuples_order.py](e_bahit_data_science/working_lists_tuples_order.py)
+- [e_bahit_data_science/working_lists_tuples_search.py](e_bahit_data_science/working_lists_tuples_search.py)
