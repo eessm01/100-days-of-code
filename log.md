@@ -725,3 +725,11 @@ necessary functions.
 - [e_bahit_data_science/working_lists_tuples.py](e_bahit_data_science/working_lists_tuples.py)
 - [e_bahit_data_science/working_lists_tuples_order.py](e_bahit_data_science/working_lists_tuples_order.py)
 - [e_bahit_data_science/working_lists_tuples_search.py](e_bahit_data_science/working_lists_tuples_search.py)
+
+
+### Day 66: Jul 15, 2020. "Ciencia de Datos con Python". Eugenia Bahit. tuples and diccionarios
+
+**Link to work:** 
+- [e_bahit_data_science/concatenation_collections.py](e_bahit_data_science/concatenation_collections.py)
+- [e_bahit_data_science/lists_tuples_convertion.py](e_bahit_data_science/lists_tuples_convertion.py)
+- [e_bahit_data_science/working_with_dictionaries.py](e_bahit_data_science/working_with_dictionaries.py)
